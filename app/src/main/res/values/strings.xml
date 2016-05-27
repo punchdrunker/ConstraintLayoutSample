@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConstraintLayoutSample</string>
+    <string name="gogh">ゴッホ</string>
+    <string name="body1">星降る夜っていう絵を描いたよ</string>
+</resources>
